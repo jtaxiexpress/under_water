@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.under_water_app">
    <application
-        android:label="under_water"
+        android:label="Under Water"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
